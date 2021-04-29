@@ -1,6 +1,9 @@
 # auto-screenBot
 Screenshot automation software
 
+install library 
+1) https://pyautogui.readthedocs.io/en/latest/install.html
+
 all the program does now is:
 
 1) takes a screenshot (50 times)
